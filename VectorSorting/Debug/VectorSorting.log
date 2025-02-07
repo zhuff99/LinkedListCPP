@@ -1,0 +1,6 @@
+﻿  CSVparser.cpp
+  VectorSorting.cpp
+C:\Users\Zachary\Desktop\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zachary\Desktop\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(318,31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  VectorSorting.vcxproj -> C:\Users\Zachary\source\repos\VectorSorting\Debug\VectorSorting.exe
